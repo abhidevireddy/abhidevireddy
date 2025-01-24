@@ -7,8 +7,8 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
   
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
+- <b>Neural Network</b>
+  - [Simple Neural Network in Python]()
  
 <h2>📝 Certifications</h2>
 
