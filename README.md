@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Web Developmont</b>
-  - [Practicing DS & Algos in Python]()
+  - [Snake Game in HTML, CSS, and Javascript]()
 
 <h2>👨‍💻 Data Science Projects:</h2>
   
