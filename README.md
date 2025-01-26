@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Web Developmont</b>
-  - [Snake Game in HTML, CSS, and Javascript]()
+  - [Snake Game in HTML, CSS, and Javascript](https://abhidevireddy.github.io/snake-game/)
 
 <h2>👨‍💻 Data Science Projects:</h2>
   
