@@ -5,10 +5,10 @@
 - <b>Web Developmont</b>
   - [Snake Game in HTML, CSS, and Javascript](https://abhidevireddy.github.io/snake-game/)
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👨‍💻 Data Science & Machine Learning Projects:</h2>
   
-- <b>Neural Network</b>
-  - [Simple Neural Network in Python]()
+- <b>Machine Learning</b>
+  - [Weather Prediction Application using React, Flask, Scikit-Learn]()
  
 <h2>📝 Certifications</h2>
 
@@ -16,8 +16,8 @@
 
 <h2>📺 YouTube Walkthroughs</h2>
 
-- [Data Science Project Walkthrough]()
-- [Software Development Project Walkthrough]()
+- [Weather Prediction Application]()
+- [Snake Game]()
 
 <h2> 🤳 Connect with me:</h2>
 
