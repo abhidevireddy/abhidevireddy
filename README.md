@@ -8,7 +8,7 @@
 <h2>👨‍💻 Data Science & Machine Learning Projects:</h2>
   
 - <b>Machine Learning</b>
-  - [Weather Prediction Application using React, Flask, Scikit-Learn]()
+  - [Weather Prediction Application using React, Flask, and Scikit-Learn]()
  
 <h2>📝 Certifications</h2>
 
